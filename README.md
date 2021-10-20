@@ -3,8 +3,8 @@
 
 # INSTALLATION
 * navigate to the your ~/.vscode/extension directory 
-* git clone https://github.com/TotalMortgageRondal/total-mortgage-services-theme.git
-* inside visual studio ctrl + p and type reload window ( this reloads your window surprisingly )
+* in git bash or cmd prompt git clone https://github.com/TotalMortgageRondal/total-mortgage-services-theme.git
+* inside visual studio press ctrl + p and type reload window ( this reloads your window surprisingly )
 * now this theme should appear in your color themes under preferences
 * feel free to contribute ( make a new branch pls )
 
